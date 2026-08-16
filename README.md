@@ -34,7 +34,7 @@ The `tasks` table contains:
 
 ## Database Screenshot
 
-![SQLite Database](database-screenshot.png)
+![SQLite Database](database_screenshot.jpeg)
 
 ## How to Run
 
